@@ -13,11 +13,3 @@ To learn more about the project and see it in action, watch our introductory vid
 (Clicking the thumbnail image will take you to the youtube video directly)
 
 [![AWS SOC Project Overview](https://img.youtube.com/vi/Q9iro4MYrv8/0.jpg)](https://youtu.be/Q9iro4MYrv8)
-
-## Repository Structure
-
-- **Sprint 1**: Initial setup and foundational configurations.
-- **Sprint 2**: Implementing core monitoring functionalities.
-- **Sprint 3**: Enhancing incident detection and response capabilities.
-- **Sprint 4**: Automating security processes and integrations.
-- **Sprint 5**: Final testing, optimization, and documentation.
