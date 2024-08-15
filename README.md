@@ -9,6 +9,7 @@ Through design, deployment, and configuration, we are seeking to fortify the dig
 ## Project Video
 
 To learn more about the project and see it in action, watch our introductory video: 
+
 (Clicking the thumbnail image will take you to the youtube video directly)
 
 [![AWS SOC Project Overview](https://img.youtube.com/vi/Q9iro4MYrv8/0.jpg)](https://youtu.be/Q9iro4MYrv8)
